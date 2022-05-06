@@ -1,0 +1,359 @@
+.pdf_contenedor{
+	width: 100%;
+	font-family: "Tahoma";
+	background: #FFF;
+}
+
+.pdf_center_div{
+	margin: 0px auto;
+}
+
+.pdf_space_1{
+	margin-left: 10%;
+	display: inline-block;
+}
+
+.pdf_space_2{
+	margin-left: 19.6%;
+	display: inline-block;
+}
+
+.pdf_space_3{
+	margin-left: 29.6%;
+	display: inline-block;
+}
+
+.pdf_space_4{
+	margin-left: 39.6%;
+	display: inline-block;
+}
+
+.pdf_space_5{
+	margin-left: 49.6%;
+	display: inline-block;
+}
+
+.pdf_space_6{
+	width: 59.6%;
+	display: inline-block;
+}
+
+.pdf_space_7{
+	width: 69.6%;
+	display: inline-block;
+}
+
+.pdf_space_8{
+	width: 79.6%;
+	display: inline-block;
+}
+
+.pdf_space_9{
+	width: 89.6%;
+	display: inline-block;
+}
+
+.pdf_col_1{
+	width: 10%;
+	display: inline-block;
+}
+
+.pdf_col_2{
+	width: 19.6%;
+	display: inline-block;
+}
+
+.pdf_col_3{
+	width: 29.6%;
+	display: inline-block;
+}
+
+.pdf_col_4{
+	width: 39.6%;
+	display: inline-block;
+}
+
+.pdf_col_5{
+	width: 49.6%;
+	display: inline-block;
+}
+
+.pdf_col_6{
+	width: 59.6%;
+	display: inline-block;
+}
+
+.pdf_col_7{
+	width: 69.6%;
+	display: inline-block;
+}
+
+.pdf_col_8{
+	width: 79.6%;
+	display: inline-block;
+}
+
+.pdf_col_9{
+	width: 89.6%;
+	display: inline-block;
+}
+
+.pdf_col_10{
+	width: 100%;
+}
+
+.pdf_table_1{
+	width: 10%;
+}
+
+.pdf_table_2{
+	width: 20%;
+}
+
+.pdf_table_3{
+	width: 30%;
+}
+
+.pdf_table_4{
+	width: 40%;
+}
+
+.pdf_table_5{
+	width: 50%;
+}
+
+.pdf_table_6{
+	width: 60%;
+}
+
+.pdf_table_7{
+	width: 70%;
+}
+
+.pdf_table_8{
+	width: 80%;
+}
+
+.pdf_table_9{
+	width: 90%;
+}
+
+.pdf_table_10{
+	width: 100%;
+}
+
+.text_center{
+	text-align: center;
+}
+
+.text_left{
+	text-align: left;
+}
+
+.text_right{
+	text-align: right;
+}
+
+.black{
+	/*background: #565656;
+	color: #FFF;
+	border: none;*/
+	color: #000!important;
+    background-color: #f1f1f1!important;
+}
+
+.red{
+	/*background: #c4433c;*/
+	background: #C0392B;
+	color: #FFF;
+}
+.green{
+	/*background: #c4433c;*/
+	background: #25b453;
+	color: #FFF;
+}
+.gris{
+	color: #eee;
+}
+.bold{
+	font-weight: bold;
+}
+
+/* Fuera del estilo */
+.pdf_title{
+	padding: 0%;
+	font-size: 32px;
+}
+
+.pdf_subTitle{
+	padding: 2%;
+	font-size: 20px;
+}
+
+.pdf_img{
+	padding-bottom: 18%;
+	width: 185px;
+}
+
+.pdf_space_title{
+	padding-bottom: 10%;
+}
+
+.linea_red{
+	position: absolute;
+	margin-top: 17%;
+	padding-bottom: 2%;
+	height: 3%;
+}
+
+.pdf_folio{
+	text-align: left;
+	margin: 4%;
+}
+.text-grisazul{
+	color: #73879C;
+}
+.gris{
+	background: #f1f1f1;
+	top: 0;
+}
+
+.franja{
+	height: 42%;
+}
+
+.top{
+	margin-top: -8%;
+}
+
+.top_franja{
+	margin-top: -1%;
+}
+
+table, th, td {
+    border: none;
+}
+
+.space_table{
+	padding: 10px;
+}
+
+.space_firma{
+	padding: 20px;
+}
+
+.letter_small{
+	font-size: 16px;
+}
+
+.letter_small_2{
+	font-size: 11px;
+}
+
+.solicitante{
+	margin-left: 15%;
+}
+
+.table_2{
+	height: 15%;
+	top: 0;
+}
+
+.pdf_firma{
+	text-align: center;
+	width: 24.6%;
+	display: inline-block;
+	font-size: 15px;
+	margin-top: 28%;
+}
+
+.line_space{
+	border-bottom: 1px solid #565656;
+	margin: 0px auto;
+	width: 70%;
+	height: 42%;
+}
+
+.borde_top{
+	border: none;
+	background: #f1f1f1;
+	height: 3%;
+}
+
+.top_line{
+	margin-top: -15%;
+}
+
+.top_firmas{
+	margin-top: -12%;
+}
+
+.convert_link{
+	color: white;
+	font-size: #FFF;
+	margin-bottom: 10px 20px;
+}
+
+.title p{
+	font-size: 26px;
+	margin: 5%;
+}
+
+.subtitle p{
+	margin: 3% 5%;
+}
+
+.pdf_table .pdf_table td{
+	font-size: 8px;
+}
+
+.pdf_table th{
+	background: #eee;
+    font-size: 12px;
+}
+
+.img{
+	margin-bottom: 5%;
+}
+
+.lista_vacia{
+	padding: 2%;
+	font-size: 18px;
+}
+.x_title {
+    border-bottom: 2px solid #E6E9ED;
+     padding: 1px 5px 6px;
+     margin-bottom: 1px;
+}
+.x_panel{
+	position: relative;
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px 17px;
+	display: inline-block;
+	background: #fff;
+	border: 1px solid #E6E9ED;
+	opacity: 1;
+}
+.tabla_consulta{
+	font-size: 12px;
+}
+.tabla_consulta th, .pdf_table td{
+	border-bottom: 1px solid #73879C;
+
+}
+
+
+.tabla_consulta th{
+	background: #fff;
+}
+.tabla-bordes {
+    border-collapse: collapse;
+}
+
+.tabla-bordes td, .tabla-bordes th {
+    border: 1px solid black;
+}
+.tabla_header thead {
+    background-color: #131c45;
+}

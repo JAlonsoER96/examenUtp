@@ -1,0 +1,233 @@
+html, body {
+		font-family: sans-serif;
+}
+
+.title {
+		font-size: 60px;
+}
+
+.type{
+	font-family: 'Tahoma';
+}
+
+.space{
+	margin-top: 30px;
+}
+
+@media screen and (max-width: 767px) {
+  	.space-small{
+		margin-top: 30px;
+	}
+
+}
+
+@media screen and (min-width: 992px) {
+	.logo{
+		margin: auto 80px;
+	}
+}
+
+
+.guardar{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.center{
+	text-align: center;
+}
+
+.boton{
+	background: #ccc;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	color: #636b6f;
+}
+
+.negritas{
+	font-weight: bold;
+}
+
+.iniciado{
+	backgroud: red;
+}
+
+.linea{
+	border-bottom: 1px solid rgba(0,0,0,.125);
+	padding-bottom: 8px;
+}
+
+.selection:hover{
+	font-weight: 600;
+	cursor:pointer;
+	cursor: hand;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+
+.menu{
+	position: fixed;
+	z-index: 1;
+	bottom: 0;
+	text-align: right;
+	padding: 0px 20px 20px 0px;
+}
+
+
+.design-pdf{
+	width: 100%;
+	margin: 0px auto;
+}
+
+.title-pdf{
+	width: 25%;
+	text-align: left;
+	top: 0%;
+	display: inline-block;
+}
+.col-sellos-pdf{
+	width: 78%;
+	margin-top: 23px;
+	text-align: left;
+	display: inline-block;
+}
+.marco-sellos{
+	border-width:1px;
+    border-style:solid;
+}
+.col-half-pdf{
+	width: 49.6%;
+	margin-top: -5px;
+	text-align: left;
+	display: inline-block;
+}
+.col-pdf{
+	width: 35%;
+	text-align: left;
+	padding-top: 5px;
+	display: inline-block;
+}
+.col-sm-pdf{
+	width: 15%;
+	text-align: left;
+	display: inline-block;
+}
+.text-col{
+	font-size: 9px;
+	padding: 0px;
+	margin: 3px 0px;
+}
+.text-tabla{
+	font-size: 9px;
+}
+.text-small{
+	font-size: 9px;
+	padding: 0px;
+	margin: 3px 0px;
+}
+.texto-azul-IMM{
+	color: #1b2375;
+}
+.texto-rojo-IMM{
+	color: #c4433c;
+}
+.logo-pdf{
+	margin: 30px;
+	width: 30%;
+	left: 5%;
+	text-align: left;
+}
+.row-pdf{
+	width: 90%;
+	margin: 3% 5% 0%;
+}
+.cabecera-pdf{
+	width: 35%;
+	margin-left: 5%;
+	text-align: left;
+}
+.header-pdf{
+	width: 80%;
+	margin: 0px auto;
+	text-align: left;
+	font-size: 18px;
+}
+
+.header-pd p{
+	padding: 10px auto;
+}
+
+
+.logoPDF{
+	width: 80%;
+}
+
+.table-pdf{
+	margin: 10px auto;
+}
+
+.firma-pdf{
+	margin: 5px auto;
+	width: 100%;
+}
+
+.box-firma-pdf{
+	position: absolute;
+	text-align: center;
+	width: 50%;
+	margin: 0px auto;
+	display: inline-block;
+}
+
+.box-firma-pdf-1{
+	left: 20%;
+	width: 20%;
+	text-align: center;
+	margin: 0px auto;
+	display: inline-block;
+}
+
+.box-firma-pdf-2{
+	display: inline-block;
+	left: 60%;
+	width: 20%;
+	text-align: center;
+	margin: 0px auto;
+}
+
+.firma-line{
+	margin: 1% auto;
+	border-bottom: 1px solid #BBB;
+	width: 100%;
+}
+
+.lista-vacia{
+	text-align: center;
+	padding: 30px 0px;
+	font-weight: bold;
+}
+.scroll-vertical {
+	overflow-y: scroll;
+}

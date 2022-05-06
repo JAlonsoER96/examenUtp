@@ -1,0 +1,56 @@
+html, body {
+		color: #636b6f;
+		font-family: sans-serif;
+}
+.title-pdf{
+	width: 25%;
+	text-align: left;
+	top: 0%;
+	display: inline-block;
+}
+.col-pdf{
+	width: 35%;
+	text-align: left;
+	padding-top: 5px;
+	display: inline-block;
+}
+.col-sm-pdf{
+	width: 12.5%;
+	text-align: left;
+	display: inline-block;
+}
+.text-col{
+	font-size: 11px;
+	padding: 0px;
+	margin: 3px 0px;
+}
+.logo-pdf{
+	margin: 30px;
+	width: 30%;
+	left: 5%;
+	text-align: left;
+}
+.row-pdf{
+	width: 90%;
+	margin: 3% 5% 0%;
+}
+.logoPDF{
+	width: 80%;
+}
+.firma-line{
+	margin: 1% auto;
+	border-bottom: 1px solid #BBB;
+	width: 100%;
+}
+.table-pdf{
+	font-size: 10px;
+}
+th, td{
+    padding: 0px;
+}
+
+th{
+	background: #1b2375b3;
+	color: white;
+	font-weight: bold;
+}

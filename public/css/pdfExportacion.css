@@ -1,0 +1,102 @@
+#tablaReporte{
+  display:inline;
+  width:100%;
+}
+#totales{
+  width:200px;
+}
+@page {
+  margin: 0cm 0cm;
+  font-family: Arial;
+}
+
+body {
+ margin: 0cm 1cm 1cm;
+}
+
+.contenedor{
+ top: 0cm;
+ left: 1cm;
+ width: 25.9cm;
+ height: 21.6cm;
+}
+.encabezado{
+ top: 0cm;
+ left: 1cm;
+ width: 25.9cm;
+}
+.logo{
+ width: 100pt;
+ text-align: right;
+}
+.nombreEmpresa{
+ width: 614pt;
+ font-size: 24px;
+ text-align: center;
+}
+.tituloReporte{
+ width: 100%;
+ font-size: 20px;
+ text-align: center;
+}
+.fechas{
+ width: 100%;
+}
+.hoy{
+ width: 200pt;
+ font-size: 10pt;
+}
+.periodo{
+ width: 200pt;
+ font-size: 10pt;
+ text-align: right;
+}
+.tabladatos{
+ width: 100%;
+}
+
+header {
+ position: fixed;
+ top: 0cm;
+ left: 1cm;
+ width: 25.9cm;
+ height: 3.5cm;
+ background-color: #fafafa;
+ color: black;
+ text-align: center;
+}
+
+main{
+ position: fixed;
+ top: 3.5cm;
+ left: 1cm;
+ right: 1cm;
+ width: 25.9cm;
+ height: 16cm;
+}
+
+footer {
+ position: fixed;
+ bottom: 0cm;
+ left: 1cm;
+ right: 1cm;
+ width: 25.9cm;
+ height: 2cm;
+ background-color: #fafafa;
+ color: white;
+ text-align: center;
+ line-height: 35px;
+}
+.page-break {
+    page-break-after: always;
+}
+
+.regla{
+  width:25.9cm;
+  background-color: #336699;
+  color:white;
+}
+.firmas{
+  width:25.9cm;
+  text-align:right;
+}

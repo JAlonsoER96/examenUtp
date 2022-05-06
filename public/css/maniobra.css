@@ -1,0 +1,142 @@
+.new-mani:hover {
+  background: #bfeaff;
+}
+
+.new-mani:active {
+  background: #a0dffe;
+}
+
+.new-mani-text {
+  width: 90%;
+  display: inline;
+  float: left;
+}
+
+.new-mani-fa {
+  width: 10%;
+  display: inline;
+}
+
+.new-mani-insert {
+  width: 10%;
+  display: inline;
+}
+
+.new-mani-success:hover {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+
+.new-mani-success:active {
+  background-color: #449d44;
+  border-color: #255625;
+}
+
+.new-mani-success {
+  background: #26B99A;
+  border: 1px solid #169F85;
+  color: white;
+}
+
+.new-mani-text-success {
+  width: 90%;
+  display: inline;
+  float: left;
+}
+
+.new-mani-fa-success {
+  width: 10%;
+  display: inline;
+}
+
+.new-mani-insert-success {
+  width: 10%;
+  display: inline;
+}
+
+#maniobraAdd {
+  margin: 15px 10px;
+  background: #EDEDED;
+  border-bottom: 1px solid #D9DEE4;
+}
+
+.borde {
+  border-style: double;
+}
+
+.table-busqueda {
+  margin: 15px auto;
+  background: #e7e7e7;
+}
+
+.space-input {
+  margin: 10px 0px;
+}
+
+.mensaje {
+  padding: 10px;
+  margin-top: 12px;
+  margin-bottom: 22px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.mensaje-exito {
+  background: #26b99a40;
+  color: #26b99a;
+}
+
+.mensaje-error {
+  background: #26b99a40;
+  color: #26b99a;
+}
+
+.alertMSG {
+  margin: 15px 0px;
+  font-size: 18px;
+  padding: 10px 15px;
+}
+
+.color-danger {
+  color: #a94442;
+  background: #e74c3c36;
+}
+
+.color-info {
+  color: #31708f;
+  background: #d9edf7;
+}
+
+.msg-busqueda {
+  width: 100%;
+  padding: 3px 15px;
+}
+
+.touch:hover {
+  color: #31708f;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.popover-content {
+  padding: 5px;
+}
+
+.popover {
+  background: #333;
+  border: 1px solid #EEE;
+  color: #FFF;
+}
+
+.deshabilita {
+  background: #eee;
+  cursor: not-allowed;
+}
+
+.table-wrapper-scroll-y {
+  display: block;
+  /*max-height: 300px;*/
+  overflow-y: auto;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
